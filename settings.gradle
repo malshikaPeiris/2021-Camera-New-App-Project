@@ -1,0 +1,2 @@
+rootProject.name = "cam_Access_new"
+include ':app'
